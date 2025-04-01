@@ -1,5 +1,5 @@
 # game-ini
-A repository to track the `Game.ini` changes for __*The HELL: City Builder of the Undead*__.  
+A repository to track the `Game.ini` changes for __*The HELL: City Builder of the Dead*__.  
 This repo ensures version control for key gameplay parameters, balancing decisions, and experimental configurations across development stages.
 
 ## Purpose
