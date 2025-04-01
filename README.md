@@ -31,7 +31,6 @@ You are free to create as many branches from `dev` as you want. These branches w
 <br /><br />
 Pull Request (PR) / Merge Request (MR) is required to publish your changes to the `main` branch. __ALL__ the commits in your MR / PR has to follow the commit guidelines.
 
-
 ## Commit Messages Guidelines
 Follow these rules for all commits to maintain a clean and informative history:
 - __ALWAYS__ use lower case alphanumeric characters __ONLY__.
@@ -43,7 +42,7 @@ Follow these rules for all commits to maintain a clean and informative history:
         * This allows your collaborator to understand the change in 1 word. All subsequent word of this commit will support "added", "updated" or "removed".
 - __ALWAYS__ restrict the summary of your commit message to one line.
     + Why?
-        * Commits should be short and frequent. Do __NOT__ nest multiple unrelated changes in one commit. 
+        * Commits should be short and frequent. Do __NOT__ nest multiple unrelated changes in one commit. This will also make rolling back the code easier.
 - __ALWAYS__ leave One (1) line space before entering your commit in point form. Denote each point with the "-" character.
     + Why?
         * Git convention denotes that the first line of the message is the description of your commit. Leaving one line, then comes the body.
